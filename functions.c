@@ -13,11 +13,8 @@ void problem_1() {
 		else if (i % 5 == 0) {
 			sum += i;
 		}
-
 	}
-
 	printf("%d", sum);
-
 }
 
 void problem_2() {
@@ -35,10 +32,7 @@ void problem_2() {
 			if (list[i] < 4000000) {
 				sum += list[i];
 			}
-
 		}
 	}
-
 	printf("%d\n", sum);
-
 }
