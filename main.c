@@ -1,9 +1,8 @@
-#include "stdio.h"
+#include "functions.h"
 
 int main() {
 
-
-	printf("Hello World"); 
+	problem_1();
 
 	return 0;
 }
